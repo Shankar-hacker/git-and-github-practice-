@@ -1,6 +1,9 @@
-Shopping Lists
+Shopping List:
+
 oranges
 apple
 grapes
 bananas
 chocolates
+Mangoes
+Lays
