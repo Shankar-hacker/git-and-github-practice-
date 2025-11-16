@@ -20,11 +20,9 @@ _this is also italic_ _
 
 ***All this text is important*** -> italic (bold) ***
 
-This is a <sub>subscript</sub> text
-
-This is a <sup>superscipt<sup> text
-
-This is a <ins> underlined <ins> text
+This is a <sub>subscript</sub> text\
+This is a <sup>superscipt<sup> text\
+This is a <ins> underlined <ins> text\
 
 
 ## quoting  text :
@@ -83,6 +81,47 @@ Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-
 Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
 
 Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+
+## Table:
+
+| Rank | THING |
+|-----:|-------|
+|     1|HTML   |
+
+
+
+## COLLAPSED:
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+  
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|  JS           |
+|     2|  CSS          |
+|     3|  Python       |
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+
+— Mona the Octocat
+
+</details>
+
+
+## About me
+
+<!-- TO DO: add more details about me later -->
+
+
+
 
 
 
