@@ -21,8 +21,8 @@ _this is also italic_ _
 ***All this text is important*** -> italic (bold) ***
 
 This is a <sub>subscript</sub> text\
-This is a <sup>superscipt<sup> text\
-This is a <ins> underlined <ins> text\
+This is a <sup>superscipt</sup> text\
+This is a <ins> underlined </ins> text
 
 
 ## quoting  text :
@@ -51,6 +51,21 @@ print("my name is: ")
 time.sleep(2)
 print("shankar")
 ```
+5. HTML
+```html
+<!doctype html>
+<html>
+<head>
+<title> basic </title>
+<link rel = "stylesheet" href = "style.css" >
+</head>
+<body>
+<div class="heading">
+  <h1>this is shanks </h1>
+</div>
+</body>
+
+```
 
 
 ## Links
@@ -61,14 +76,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ### Sample Section
 
-### This'll be a _Helpful_ Section About the Greek Letter Θ!
+### This'll be a _Helpful_ Section About the Greek Letter Θ
 A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
 
 ### This heading is not unique in the file
 
 TEXT 1
 
-### This heading is not unique in the file
+### This heading is not unique in the file-1
 
 TEXT 2
 
